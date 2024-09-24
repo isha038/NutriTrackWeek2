@@ -2,7 +2,7 @@
 
 Submitted by: **Isha Shrestha**
 
-About this web app: **App description here**
+About this web app: **This project is a Nutritional Food Database web app that displays a list of common foods along with their nutritional information. Each food item includes key details such as calories, Vitamin C, fiber, and potassium content, along with an image. The app is built using vanilla JavaScript, HTML, and CSS, and is styled with Picocss for a clean, minimalist design. Users can explore food items, view detailed nutrition facts, and learn about healthy food options.**
 
 Time spent: **5** hours
 
@@ -34,10 +34,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='NutriTrackWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Licecap
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
