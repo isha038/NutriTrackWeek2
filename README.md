@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src='railway.png' title='Railway' width='' alt='Screenshot of Railway' />
+<img src='railway.gif' title='Railway' width='' alt='Railway' />
 
 <img src='NutriTrackWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
