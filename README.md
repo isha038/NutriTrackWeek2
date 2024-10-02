@@ -1,10 +1,10 @@
-# WEB103 Project 1 - *NutriTrack*
+# WEB103 Project 2 - *NutriTrack*
 
 Submitted by: **Isha Shrestha**
 
-About this web app: **This project is a Nutritional Food Database web app that displays a list of common foods along with their nutritional information. Each food item includes key details such as calories, Vitamin C, fiber, and potassium content, along with an image. The app is built using vanilla JavaScript, HTML, and CSS, and is styled with Picocss for a clean, minimalist design. Users can explore food items, view detailed nutrition facts, and learn about healthy food options.**
+About this web app: **This project is a Nutritional Food Database web app that displays a list of common foods along with their nutritional information. Each food item includes key details such as calories, Vitamin C, fiber, and potassium content, along with an image. The app is built using vanilla JavaScript, HTML, and CSS, and is styled with Picocss for a clean, minimalist design. Users can explore food items, view detailed nutrition facts, and learn about healthy food options. The app is connected to PostGreSQL on the backend.**
 
-Time spent: **5** hours
+Time spent: **4** hours
 
 ## Required Features
 
@@ -12,40 +12,33 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [X] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [X] **The web app displays a title**
-- [X] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
-- [X] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [X] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [X] **The web app serves an appropriate 404 page when no matching route is defined**
-- [X] **The web app is appropriately styled using Picocss**
+- [X] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [X] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+  - [X] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
-- [X] The web app displays items in a unique format, such as cards rather than lists
+- [] The user can search for items with a specific attribute
 
 The following **additional** features are implemented:
 
 - [ ] List anything else that you added to improve the site's functionality!
 
-
 ## Video Walkthrough
 
-
-
 Here's a walkthrough of implemented required features:
+<img src='railway.png' title='Railway' width='' alt='Screenshot of Railway' />
 
 <img src='NutriTrackWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LICEcap
+GIF created with ...  LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
