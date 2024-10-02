@@ -3,6 +3,7 @@ const foodData = [
         "id": 1,
         "title": "Apple",
         "image": "https://give.umn.edu/sites/give.umn.edu/files/2022-08/honeycrisp_apple_pic.png",
+        "calories": 25,
         "keyNutrients": {
             "vitaminC": "14%",
             "fiber": "4g",
@@ -68,6 +69,7 @@ const foodData = [
         "id": 7,
         "title": "Sweet Potato",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5T3FmGTISvWY1EOCnurwuW82s-NIuRiqXJg&s",
+        "calories":50,
         "keyNutrients": {
             "vitaminC": "4%",
             "fiber": "3.8g",

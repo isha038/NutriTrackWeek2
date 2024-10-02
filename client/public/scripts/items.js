@@ -32,7 +32,7 @@ const renderFoods = async() => {
 
             // Create and append key nutrients information
             const nutrients = document.createElement('p');
-            nutrients.textContent = `Nutrients: Vitamin C: ${item.keyNutrients.vitaminC}, Fiber: ${item.keyNutrients.fiber}, Potassium: ${item.keyNutrients.potassium}`;
+            nutrients.textContent = `Nutrients: Vitamin C: ${item.vitaminc}, Fiber: ${item.fiber}, Potassium: ${item.potassium}`;
             bottomContainer.appendChild(nutrients);
 
             // Create and append the 'Read More' link

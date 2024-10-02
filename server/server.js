@@ -1,6 +1,7 @@
 import express from 'express'
+import 'dotenv/config'; 
 import itemsRouter from './routes/items.js'
-
+ 
 const app = express()
 
 app.use('/public',express.static('./public'))
